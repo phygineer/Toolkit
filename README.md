@@ -9,6 +9,17 @@ ___
 - Install dependencies: `npm install`
 - Run the app: `npm start`
 
+
+### To Do
+- [ ] Decide on storage method
+    - Data should be storaed on local machine on user's computer
+    - We will need different kinds of storage for different types of data
+        - App settings - stored in a JSON file  
+        - Tool specific data  - stored in local database
+    - Requirement is data should persist
+
+- [ ] Create a roadmap for tools development
+
 ##### Commands History
 
 ```shell
