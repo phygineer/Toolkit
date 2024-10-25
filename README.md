@@ -21,5 +21,19 @@ rm -r toolkit
 
 npm start
 
+npm run make
+
+npm install --save-dev @electron-forge/publisher-github
+
+npm i update-electron-app
+
+npm run publish
 
 ```
+
+
+##### Usefull Links
+
+- [Electron Forge](https://www.electronforge.io/)
+- [Update Electron App](https://github.com/electron/update-electron-app)
+- [Auto updating from GitHub](https://github.com/electron/update.electronjs.org)
