@@ -29,6 +29,8 @@ npm i update-electron-app
 
 npm run publish
 
+    Please set GITHUB_TOKEN in your environment to access these features
+
 ```
 
 
@@ -37,3 +39,4 @@ npm run publish
 - [Electron Forge](https://www.electronforge.io/)
 - [Update Electron App](https://github.com/electron/update-electron-app)
 - [Auto updating from GitHub](https://github.com/electron/update.electronjs.org)
+- [PublisherGitHubConfig](https://github.com/electron/forge/blob/ccf606325/packages/publisher/github/src/Config.ts)
